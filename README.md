@@ -1,18 +1,20 @@
-## Getting Started
+# Desafio POO - iPhone
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto desenvolvido como parte do desafio de Programação Orientada a Objetos (POO).
 
-## Folder Structure
+## Objetivo
+Modelar e implementar um componente **iPhone** com as seguintes funcionalidades:
+- Reprodutor Musical
+- Aparelho Telefônico
+- Navegador na Internet
 
-The workspace contains two folders by default, where:
+## Estrutura
+O projeto contém três interfaces e uma classe principal:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `ReprodutorMusical`
+- `AparelhoTelefonico`
+- `NavegadorInternet`
+- `iPhone` (implementa as três interfaces)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+O Desafio pedia também um diagrama **UML**
+<img width="1120" height="390" alt="image" src="https://github.com/user-attachments/assets/986dacb7-9722-4631-ae7c-ec3df3402473" />
